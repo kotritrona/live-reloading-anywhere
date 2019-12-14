@@ -31,6 +31,8 @@ return
 Essentially simply send F5 to browser windows when you press Ctrl+S to save the code.
 Too bad Chrome requires you to be active to actually refresh, so you need to activate it and turn back. But the best part is that the taskbar will shine when this happens, which is a perfect reminder!
 
+This does not include the compiling part, if you are still using any, though. But it is very straightforward, in AutoHotkey, to add those extra steps in the script!
+
 #### Future Work
 
 Support other systems than Windows obviously. However it is also apparent I wouldn't bother to do it, as you'd surely know how to when you read this.
