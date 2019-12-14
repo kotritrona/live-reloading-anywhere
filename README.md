@@ -1,6 +1,6 @@
 ## Live Reloading Without Using React
 
-TL;DR - Install AutoHotkey, and run the script.
+TL;DR - Install [AutoHotkey](https://www.autohotkey.com/), and run the script.
 (if you use a text editor other than sublime_text, simply edit the process name in the script)
 
 People who would know this if using React - Live Reloading, which reloads the page whenever you modify the codes.
@@ -13,7 +13,7 @@ This is all not necessary - we can achieve live reloading in 10 lines of code, w
 
 And since there is only 10 lines of code, the best part is you retain full control. No reading other people's StackOverflows anymore!
 
-There is goes:
+There it goes, a 10-line [AutoHotkey](https://www.autohotkey.com/) script:
 
 ```autohotkey
 ~^s::
