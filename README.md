@@ -33,4 +33,4 @@ Too bad Chrome requires you to be active to actually refresh, so you need to act
 
 #### Future Work
 
-Support other systems than Windows obviously. However it is also apparent I wouldn't bother to do it as you'd surely know how when you read this.
+Support other systems than Windows obviously. However it is also apparent I wouldn't bother to do it, as you'd surely know how to when you read this.
