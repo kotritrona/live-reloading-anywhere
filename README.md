@@ -36,4 +36,4 @@ This does not include the compiling part, if you are still using any, though. Bu
 
 #### Future Work
 
-Support other systems than Windows obviously. However it is also apparent I wouldn't bother to do it, as you'd surely know how to when you read this.
+Support other systems than Windows obviously!
